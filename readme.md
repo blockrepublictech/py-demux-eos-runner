@@ -14,7 +14,7 @@ pip install --upgrade pip
 
 pip install --upgrade setuptools urllib3[secure]
 
-pip install  git+https://github.com/mlockett42/py-demux@e91ede7bdef915306f8dd02d53e15c5183a0331c
+pip install git+https://github.com/blockrepublictech/py-demux-eos.git@54586e1696b52c81f8c4a3969c2844d7a65c5dee
 ```
 
 You can you run the runner.py function to use some rudimentary functions
