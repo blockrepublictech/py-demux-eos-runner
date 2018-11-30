@@ -1,4 +1,4 @@
-from demux import Demux
+from demuxeos import Demux
 
 # Callback start block function (OPTIONAL)
 # Starts this block and stores primitive details in django database
