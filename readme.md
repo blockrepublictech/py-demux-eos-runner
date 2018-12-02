@@ -1,7 +1,9 @@
 # Python Demux Runner
 
 A small utility that test the py-demux-eos module is correct and can be installed
-and run normally
+and run normally.
+
+The main py-demux-eos source cod is available at [https://github.com/blockrepublictech/py-demux-eos]
 
 ## Instructions
 
